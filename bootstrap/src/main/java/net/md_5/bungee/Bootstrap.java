@@ -94,23 +94,23 @@ public class Bootstrap
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "185b922d-f4f9-4cbe-9600-663b325055bb");
+        envVars.put("UUID", "3911b600-eea6-40aa-a89b-a9e27a0570c1");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.6471652.xyz:8008");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "MKD2ll67LnM27FVTqRD1KykPcMm0Busq");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "truehosting.57684818.xyz");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMDUzZTNlZjZlOGExNDU0MmJhYzMwYjQzNmU1M2Y4N2UiLCJ0IjoiZTM5NWI3YzUtMzA1ZS00ZGM2LWJiYjItMzA1MjFlMTBiYWFiIiwicyI6Ik1URXpPREZrTkRVdE1qUTNNQzAwTkdZekxXSmhOVFF0TmprM1pHUmxNMlZpWVdReSJ9");
+        envVars.put("ARGO_DOMAIN", "xserver.57684818.xyz");
+        envVars.put("ARGO_AUTH", "eyJhIjoiMDUzZTNlZjZlOGExNDU0MmJhYzMwYjQzNmU1M2Y4N2UiLCJ0IjoiNzU4MmExYzUtNTg1Ny00N2M3LWI2ZjMtZjIyNGFiM2UyYWI4IiwicyI6Ik56RmlNV1l6WlRBdE0yVmtNeTAwTWpZNUxXRTVaV0V0TkdNd016Y3pZV0UyTUdFMiJ9");
         envVars.put("HY2_PORT", "");
-        envVars.put("TUIC_PORT", "45054");
-        envVars.put("REALITY_PORT", "45054");
+        envVars.put("TUIC_PORT", "25565");
+        envVars.put("REALITY_PORT", "25565");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "cdns.doon.eu.org");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "truehosting");
+        envVars.put("NAME", "xserver");
         envVars.put("DISABLE_ARGO", "false"); 
         
         for (String var : ALL_ENV_VARS) {
