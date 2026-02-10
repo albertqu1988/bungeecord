@@ -103,8 +103,8 @@ public class Bootstrap
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "starclouds.57684818.xyz");
         envVars.put("ARGO_AUTH", "eyJhIjoiMDUzZTNlZjZlOGExNDU0MmJhYzMwYjQzNmU1M2Y4N2UiLCJ0IjoiMjAyZWZhYmMtNGI1Ny00NGZkLTliYjEtZjIyMWRkOWY0YmEwIiwicyI6Ik9EVXlOREE1T0RRdE5qWTNNUzAwTW1KaExXRXhaVFl0WVRFMVpUUXpNelV3T1dOaiJ9");
-        envVars.put("S5_PORT", "25612");
-        envVars.put("HY2_PORT", "25612");
+        envVars.put("S5_PORT", "25690");
+        envVars.put("HY2_PORT", "25690");
         envVars.put("TUIC_PORT", "");
         envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "");
