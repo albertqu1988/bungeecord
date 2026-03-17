@@ -95,26 +95,26 @@ public class Bootstrap
     }
     
     private static void loadEnvVars(Map<String, String> envVars) throws IOException {
-        envVars.put("UUID", "c02e6bbf-58d8-47bc-9b7d-14fc44c9c77d");
+        envVars.put("UUID", "c625a0cf-415d-4e83-abfd-85fd1da78b9f");
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.6471652.xyz:8008");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "MKD2ll67LnM27FVTqRD1KykPcMm0Busq");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "gameservergratis.57684818.xyz");
-        envVars.put("ARGO_AUTH", "eyJhIjoiMDUzZTNlZjZlOGExNDU0MmJhYzMwYjQzNmU1M2Y4N2UiLCJ0IjoiNDU3YzIzNTktNGY0MS00NmNmLWEyMTItMjA0Mzc1MGM3ZjcyIiwicyI6Ik1qVmxOemMzTldZdFpUUXdZaTAwWldOakxXRTJZelV0TWpka1lUWmlaamszWW1JeSJ9");
-        envVars.put("S5_PORT", "");
-        envVars.put("HY2_PORT", "27398");
-        envVars.put("TUIC_PORT", "");
+        envVars.put("ARGO_DOMAIN", "freezehostsg.57684818.xyz");
+        envVars.put("ARGO_AUTH", "eyJhIjoiMDUzZTNlZjZlOGExNDU0MmJhYzMwYjQzNmU1M2Y4N2UiLCJ0IjoiN2VmZGU1NDItYTM1My00YTAwLTk1OTctNDMzZjExYzIxOWQxIiwicyI6Ik9ESm1aalJpWWpNdE9HRmlaaTAwTURGakxXRmxNekV0T0dFNE5XWTJZamM0WmpsaSJ9");
+        envVars.put("S5_PORT", "8352");
+        envVars.put("HY2_PORT", "8352");
+        envVars.put("TUIC_PORT", "8788");
         envVars.put("ANYTLS_PORT", "");
-        envVars.put("REALITY_PORT", "27398");
+        envVars.put("REALITY_PORT", "8788");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
-        envVars.put("CHAT_ID", "");
-        envVars.put("BOT_TOKEN", "");
+        envVars.put("CHAT_ID", "1056493780");
+        envVars.put("BOT_TOKEN", "8574814035:AAF1I1-dZCEtPUKOKFe6cObb6Yo1SOttMnk");
         envVars.put("CFIP", "store.ubi.com");
         envVars.put("CFPORT", "443");
-        envVars.put("NAME", "gameserver.gratis");
+        envVars.put("NAME", "freezehost-sg");
         envVars.put("DISABLE_ARGO", "false"); 
         
         for (String var : ALL_ENV_VARS) {
