@@ -110,8 +110,8 @@ public class Bootstrap
         envVars.put("REALITY_PORT", "8788");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
-        envVars.put("CHAT_ID", "1056493780");
-        envVars.put("BOT_TOKEN", "8574814035:AAF1I1-dZCEtPUKOKFe6cObb6Yo1SOttMnk");
+        envVars.put("CHAT_ID", "");
+        envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "store.ubi.com");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "freezehost-sg");
